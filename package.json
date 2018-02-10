@@ -1,0 +1,21 @@
+{
+  "name": "telegram-bot-auth-and-keyboard",
+  "version": "0.0.1",
+  "description": "Telegram Echo Bot with authentication and custom keyboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Echo",
+    "Authentication",
+    "Keyboard"
+  ],
+  "author": "Apal Shah",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
